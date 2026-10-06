@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" role="img" aria-label="Sample poster">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a2744"/>
+      <stop offset="0.72" stop-color="#243656"/>
+      <stop offset="1" stop-color="#c46b45"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="900" fill="url(#sky)"/>
+  <circle cx="300" cy="250" r="72" fill="#f4efe4"/>
+  <path d="M0 690 C140 640 240 760 360 710 C470 666 520 740 600 700 L600 900 L0 900 Z" fill="#0c1224"/>
+  <text x="48" y="820" fill="#f4efe4" font-family="Georgia, serif" font-size="28">Sample poster</text>
+</svg>

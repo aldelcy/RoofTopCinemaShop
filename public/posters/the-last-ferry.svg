@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" role="img" aria-label="Sample poster">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#10182c"/>
+      <stop offset="0.55" stop-color="#1c3148"/>
+      <stop offset="1" stop-color="#e39b6a"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="900" fill="url(#sky)"/>
+  <rect x="70" y="430" width="460" height="16" fill="#f4efe4" opacity="0.85"/>
+  <polygon points="150,430 190,360 430,360 470,430" fill="#0c1224"/>
+  <circle cx="470" cy="180" r="18" fill="#f4efe4"/>
+  <text x="48" y="820" fill="#f4efe4" font-family="Georgia, serif" font-size="28">Sample poster</text>
+</svg>

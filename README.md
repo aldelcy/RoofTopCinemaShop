@@ -18,7 +18,7 @@ An order that would exceed the screening’s capacity is refused. Seat counts up
 
 Movies, screenings, and snacks live in [`data/catalog.ts`](data/catalog.ts). Prices are in cents. Dates are `YYYY-MM-DD`. Times are 24-hour `HH:mm`.
 
-Posters are in [`public/posters`](public/posters). Each movie’s `poster` field is the public path, for example `/posters/moonlight_over_the_hudson.png`. Replace the file or change that path when you add a new image.
+Posters are in [`public/posters`](public/posters). Each movie’s `poster` field is the public path, for example `/posters/moonlight-over-the-hudson.svg`. Replace the file or change that path when you add a new image.
 
 Plain `<img>` tags prefix that path with `NEXT_PUBLIC_BASE_PATH` so it still loads when the app is mounted under a site path.
 

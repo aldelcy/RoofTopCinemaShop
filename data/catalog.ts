@@ -37,7 +37,7 @@ export const movies: Movie[] = [
     description:
       "Two neighbors miss the last train and walk the river until the sky lightens.",
     runtimeMinutes: 108,
-    poster: "/posters/moonlight_over_the_hudson.png",
+    poster: "/posters/moonlight-over-the-hudson.svg",
   },
   {
     id: "the-last-ferry",
@@ -45,7 +45,7 @@ export const movies: Movie[] = [
     description:
       "A night crossing, a missing suitcase, and a city that keeps its lights low.",
     runtimeMinutes: 121,
-    poster: "/posters/the_last_ferry.png",
+    poster: "/posters/the-last-ferry.svg",
   },
   {
     id: "neon-orchard",
@@ -53,7 +53,7 @@ export const movies: Movie[] = [
     description:
       "A family tries to sell one perfect peach at a night market that will not close.",
     runtimeMinutes: 96,
-    poster: "/posters/neon_orchard.png",
+    poster: "/posters/neon-orchard.svg",
   },
 ];
 
